@@ -1,0 +1,5 @@
+[
+  { "title": "Minecraft", "genre": "Sandbox", "platform": "PC", "hoursPlayed": 120, "rating": 5 },
+  { "title": "GTA V", "genre": "Action", "platform": "Console", "hoursPlayed": 200, "rating": 5 },
+  { "title": "Fortnite", "genre": "Battle Royale", "platform": "Mobile", "hoursPlayed": 80, "rating": 4 }
+]
