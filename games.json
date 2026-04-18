@@ -4,23 +4,20 @@
     "genre": "Sandbox",
     "platform": "PC",
     "hoursPlayed": 120,
-    "rating": 5,
-    "image": "https://cdn.jsdelivr.net/gh/ViAnhP/game-sample-data@main/minecraft.png"
+    "rating": 5
   },
   {
     "title": "GTA V",
     "genre": "Action",
     "platform": "Console",
     "hoursPlayed": 200,
-    "rating": 5,
-    "image": "https://raw.githubusercontent.com/ViAnhP/game-sample-data/main/gta.jpg"
+    "rating": 5
   },
   {
     "title": "Fortnite",
     "genre": "Battle Royale",
     "platform": "Mobile",
     "hoursPlayed": 80,
-    "rating": 4,
-    "image": "https://raw.githubusercontent.com/ViAnhP/game-sample-data/main/fortnite.png"
+    "rating": 4
   }
 ]
